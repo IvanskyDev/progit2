@@ -1,0 +1,2 @@
+* bc/rev-list-without-commit-line:
+  rev-list: add option for --pretty=format without head
